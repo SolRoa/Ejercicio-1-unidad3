@@ -103,4 +103,33 @@ body{
  .iconsize4{
      height: 40%;
  }
+
+ .rus1{
+    background-color: #FFFFFF;
+    height: 33.3%;
+ }
+
+ .rus2{
+    background-color: #0039A6;
+    height: 33.3%;
+ }
+
+ .rus3{
+    background-color: #D52B1E;
+    height: 33.3%;
+ }
  
+ .colo1{
+    background-color: #FFCD00;
+    height: 100px;
+ }
+
+ .colo2{
+    background-color: #003087;
+    height: 50px;
+ }
+
+ .colo3{
+    background-color: #C8102E;
+    height: 50px;
+ }
