@@ -1,20 +1,23 @@
 body{
     background-color: #333333;
     margin: 0;
-    
+    padding: 0;
 }
 .titulo{
     color: #fff;
 }
  .contenedor{
     margin: 0 auto;
-    width: 300px;
+    width: 300px; 
 } 
 .bandera{
-    background-color: #fff;
+    
     margin: 1rem 0;
     width: 300px;
     height: 200px;
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
 
 }
 .ale1{
@@ -69,7 +72,35 @@ body{
     height: 33.33%;
 
 }
-.iconsize{
+.iconsize8{
     height: 100%;
     width: 20%;  
 }
+ .mex1{
+    background-color: #006847;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+ }
+
+ .mex2{
+    background-color: white;
+    width: 33.3%;
+    height: 100%; 
+    float: left; 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+ }
+ .mex3{
+    background-color: #CE1125;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+ }
+
+ .iconsize4{
+     height: 40%;
+ }
+ 
