@@ -6,10 +6,10 @@ body{
 .titulo{
     color: #fff;
 }
-.contenedor{
-    width: 400px;
+ .contenedor{
     margin: 0 auto;
-}
+    width: 300px;
+} 
 .bandera{
     background-color: #fff;
     margin: 1rem 0;
@@ -28,4 +28,25 @@ body{
 .ale3{
     background-color: #ffce00;
     height: 33.33%;
+}
+
+.fran1{
+    background-color: #0055A4;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.fran2{
+    background-color:#FFFFFF;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.fran3{
+    background-color:#EF4135;
+    width: 33.33%;
+    height: 100%;
+    float: left;
 }
