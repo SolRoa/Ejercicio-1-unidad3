@@ -50,3 +50,26 @@ body{
     height: 100%;
     float: left;
 }
+
+.arg1{
+    background-color: #75aadb;
+    height: 33.33%;
+}
+
+.arg2{
+    background-color: #ffffff;
+    height: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.arg3{
+    background-color: #75aadb;
+    height: 33.33%;
+
+}
+.iconsize{
+    height: 100%;
+    width: 20%;  
+}
